@@ -1,5 +1,5 @@
 {
-  "name": "pksimplecore",
+  "name": "pkthincore",
   "version": "1.0.0",
   "description": "A simple core module to add api key validation and response handler",
   "main": "dist/index.js",
